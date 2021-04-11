@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "base-defense"
+    }
+  },
+  "defaultProject": "base-defense",
+  "cli": {
+    "analytics": false
+  }
 }
